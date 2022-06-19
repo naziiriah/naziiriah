@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 Hi, I'm Nazir ⚡ and, I love working with programs. I also love to write articles on React, JavaScript and Typescript.
 
-###  What am I working on ?
+###  What am I working on  ?
 ____________________________________________________________________________________________
 
 🔭 I’m currently working on building simple, sometimes complex interactive web applications.  When I'm not building simple tools, I'm on LeetCode solving problems or reading Friedrich Nietzchche or Carl Jung.
