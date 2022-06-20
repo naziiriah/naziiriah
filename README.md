@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there !👋
 ____________________________________________________________________________________________
 
 Hi, I'm Nazir ⚡ and, I love working with programs. I also love to write articles on React, JavaScript and Typescript.
