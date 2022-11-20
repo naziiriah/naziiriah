@@ -11,7 +11,7 @@ ________________________________________________________________________________
 ### What am I learning ?
 ____________________________________________________________________________________________
 
-🌱 I’m currently learning how to build efficient backend servers (or APIs) with the Express JS framework. I am also learning how to write efficient algorithms for different problems ranging from strings to graphs etc.
+🌱 I’m currently learning how to build efficient backend servers (or APIs) with the Express JS framework and mobile Apps with flutter. I am also learning how to write efficient algorithms for different problems ranging from strings to graphs etc.
 
 ### Want to collaborate on something ?
 ____________________________________________________________________________________________
